@@ -35,6 +35,7 @@
 **⚡ Fun facts:**
 
 - Before I began coding full time, I was a Mechanical Engineer for Wastewater Treatment Plants in NYC.
+- I like watching horror movies, but I tend to get scared easily.
 - Have a dedicated hobby in drawing. Betrayed Procreate and married Wacom Cintiq last year.
 - 🥅 Current Goals: Play OMG on my acoustic guitar seamlessly and get more fluent in Japanese and Korean ( I was able to converse with the natives last year!).
 
