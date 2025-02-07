@@ -14,7 +14,7 @@
 [![Instagram Follow](https://img.shields.io/website?label=Instagram&color=red&style=for-the-badge&url=https://hou-portfolio.netlify.app)](https://www.instagram.com/inksults2inkjuries/)
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/houchongchan/">
+  <a href="https://www.linkedin.com/in/houchong-chan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
   <a href="mailto:houchongchan@gmail.com?subject=Hello%20Hou,"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/></a>
 </div>
